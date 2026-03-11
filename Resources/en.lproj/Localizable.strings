@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  RacingGame
+
+  Created by Анна Швайко on 23.02.26.
+  
+*/
+"Game Screen" = "Game Screen";
+"Table of Records" = "Table of Records";
+"Settings" = "Settings";
+"<Back" = "<Back";
+"TIME" = "TIME";
+"SPEED" = "SPEED";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+"Game Over" = "Game Over";
+"You crashed!" = "You crashed!";
+"Don't Go!" = "Don't Go!";
+"If you exit now, your progress will be lost." = "If you exit now, your progress will be lost.";
+"RECORDS" = "RECORDS";
+"SETTINGS" = "SETTINGS";
+"Enter Your Name" = "Enter Your Name";
+"image_picker_title" = "Choose media source";
+"image_picker_camera" = "Camera";
+"image_picker_library" = "Photo Library";
+"Cancel" = "Cancel";
+"RACING \nGAME" = "RACING \nGAME";
+"km/h" = "km/h";
+
