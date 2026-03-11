@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  RacingGame
+
+  Created by Анна Швайко on 23.02.26.
+  
+*/
+"Game Screen" = "Игра";
+"Table of Records" = "Таблица рекордов";
+"Settings" = "Настройки";
+"<Back" = "<Назад";
+"TIME" = "ВРЕМЯ";
+"SPEED" = "СКОРОСТЬ";
+"Ok" = "Ок";
+"Cancel" = "Отмена";
+"Game Over" = "Игра окончена";
+"You crashed!" = "Вы разбились!";
+"Don't Go!" = "Не уходи!";
+"If you exit now, your progress will be lost." = "Если вы выйдете сейчас, ваш прогресс обнулится.";
+"RECORDS" = " РЕКОРДЫ";
+"SETTINGS" = "НАСТРОЙКИ";
+"Enter Your Name" = "Введите ваше имя";
+"image_picker_title" = "Выберите источник";
+"image_picker_camera" = "Камера";
+"image_picker_library" = "Библиотека";
+"Cancel" = "Отмена";
+"RACING \nGAME" = "СУПЕР \nГОНКИ";
+"km/h" = "км/ч";
